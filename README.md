@@ -1,2 +1,2 @@
-# python-darslar
+# python-tuman
 
